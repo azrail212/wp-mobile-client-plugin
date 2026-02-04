@@ -9,5 +9,5 @@ Custom WordPress REST API plugin for the Balkan Game Hub mobile app.
 
 ## Client
 
-This plugin is intended to be used by: https://github.com/yourname/wp-mobile-client
+This plugin is intended to be used by: https://github.com/azrail212/wp-mobile-client
 
